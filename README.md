@@ -129,3 +129,6 @@ python backdoor_eval.py \
     --batch_size 1
 ```
 
+## Cite
+Less is Better: Exploiting Label Bias to Enhance Instruction Tuning-based Backdoor Attack on Large Language Models, IJCNN 2025
+
